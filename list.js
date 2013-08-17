@@ -1,4 +1,4 @@
-var inbox = require("../inbox"),
+var inbox = require("inbox"),
     util = require("util");
 
 var client = inbox.createConnection(false, "imap.gmail.com", {
