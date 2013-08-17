@@ -1,0 +1,15 @@
+{
+  "name": "inbox-test",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "list.js",
+  "scripts": {
+    "test": "node list.js"
+  },
+  "repository": "",
+  "author": "Andris Reinman",
+  "license": "MIT",
+  "dependencies":{
+    "inbox": "*"
+  }
+}
